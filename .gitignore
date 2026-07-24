@@ -7,3 +7,10 @@ dist/
 # Local Environment & Logs
 *.log
 .DS_Store
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
