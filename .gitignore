@@ -1,0 +1,9 @@
+# Dependencies
+node_modules/
+
+# Build Output
+dist/
+
+# Local Environment & Logs
+*.log
+.DS_Store
